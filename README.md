@@ -34,10 +34,10 @@ sh init.sh start
 8. [Terminal](steps/terminal.sh)
    1. Installing Powerline
    2. Installing VIM
-9.  [IDE](steps/ide.sh)
-   3. Installing VSCode
+9. [IDE](steps/ide.sh)
+   1.  Installing VSCode
 10. [Chrome](steps/chrome.sh)
-   4. Installing Google Chrome
+    1.  Installing Google Chrome
 11. [Docker](steps/docker.sh)
     1. Installing Docker
 12. [Jenkins](steps/jenkins.sh)
