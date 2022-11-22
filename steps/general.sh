@@ -12,7 +12,7 @@ sudo apt install -y \
   libncursesw5-dev \
   xz-utils \
   tk-dev \
-  libxml2-dev \
+  libxml2-dev libxml2-utils \
   libxmlsec1-dev \
   libffi-dev \
   liblzma-dev \
